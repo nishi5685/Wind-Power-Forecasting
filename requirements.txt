@@ -1,0 +1,12 @@
+astropy
+catboost
+lightgbm
+matplotlib
+mpl-scatter-density
+numpy
+pandas
+plotly
+scikit-learn
+seaborn
+sktime
+streamlit
